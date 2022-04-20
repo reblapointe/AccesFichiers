@@ -1,0 +1,9 @@
+
+<employes>
+    <employe id="1001">
+        <prenom>Robert</prenom>
+        <nom>Robert</nom>
+        <dateEmbauche>2021-06-25</dateEmbauche>
+        <salaire currency="CAD">50000</salaire>
+    </employe>
+</employes>
